@@ -16,7 +16,7 @@ function Taskone() {
 
             <h3>Least Interested</h3>
             <p>1: Organize, Schedule and book meetings for Account Executives with prospects</p>
-            <p>2: Evaluate an application to help determine if it's commercial or not</p>
+            <p>2: Evaluate an application to help determine if its commercial or not</p>
             <p>3: Research and organize notes to ensure Account Executives are prepared for calls</p>
 
         </div>
